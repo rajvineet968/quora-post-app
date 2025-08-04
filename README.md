@@ -13,21 +13,23 @@ The app uses `method-override` to support PUT and DELETE HTTP verbs via HTML for
 
 ## 📂 Project Structure
 
+Project Root/
 ├── node_modules/
-├── public/ # Static files (CSS)
-│ ├── style.css
-│ ├── create.css
-│ ├── detail.css
-│ └── edit.css
-├── views/ # EJS Templates
-│ ├── index.ejs
-│ ├── new.ejs
-│ ├── show.ejs
-│ └── edit.ejs
-├── index.js # Express app entry point
+├── public/                 # Static files (CSS, JS, images)
+│   ├── style.css
+│   ├── create.css
+│   ├── detail.css
+│   └── edit.css
+├── views/                  # EJS Templates
+│   ├── index.ejs
+│   ├── new.ejs
+│   ├── show.ejs
+│   ├── edit.ejs
+├── index.js                # Express app entry point
 ├── package.json
 ├── package-lock.json
 └── README.md
+
 
 ---
 
@@ -36,7 +38,7 @@ The app uses `method-override` to support PUT and DELETE HTTP verbs via HTML for
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/your-username/quora-post-app.git
+https://github.com/rajvineet968/quora-post-app.git
 cd quora-post-app
 ```
 
