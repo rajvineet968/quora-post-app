@@ -62,13 +62,13 @@ nodemon index.js(Iff , you have installed nodemon)
 http://localhost:8080/posts
 ```
 
-🛠️ Tech Stack
+🛠️ Tech Stack : 
 Node.js
 Express.js
 EJS Templating
 HTML & CSS (custom Quora-style)
 
-📦 Dependencies
+📦 Dependencies : 
 express
 ejs
 uuid
