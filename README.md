@@ -63,15 +63,15 @@ http://localhost:8080/posts
 ```
 
 🛠️ Tech Stack : 
-Node.js
-Express.js
-EJS Templating
+Node.js , 
+Express.js ,
+EJS Templating ,
 HTML & CSS (custom Quora-style)
 
 📦 Dependencies : 
-express
-ejs
-uuid
+express ,
+ejs ,
+uuid ,
 method-override
 
 **Install them with:**
